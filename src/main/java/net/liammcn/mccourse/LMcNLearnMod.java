@@ -34,7 +34,7 @@ public class LMcNLearnMod {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-
+        // TEST
     }
 
     // Add the example block item to the building blocks tab
